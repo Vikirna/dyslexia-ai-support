@@ -170,7 +170,7 @@ pip install -r requirements.txt
 This project is accompanied by a research paper:
 
 **"AI-Driven Personalized Learning Content Recommendation for Dyslexic Students: A Machine Learning Pipeline Analysis"**  
-Semwal A., Majumdar V., Krishna D. (2025)  
+Semwal A., Majumdar V., Krishna D. (2026)  
 SRM Institute of Science and Technology
 
 ---
